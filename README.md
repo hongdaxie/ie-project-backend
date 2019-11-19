@@ -10,3 +10,4 @@ This can allow user to send SMS notifications
 This is to fetch images
 
 ### create a SendGrid API_KEYS and put [here](https://github.com/hongdaxie/Ieproject-backend/blob/master/src/main/java/com/hongda/service/MailService.java) line 36 
+This is to send notifications by email
