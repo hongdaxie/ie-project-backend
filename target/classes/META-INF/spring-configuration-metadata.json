@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "twilio",
+      "type": "com.hongda.TwilioConfiguration",
+      "sourceType": "com.hongda.TwilioConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "twilio.account-sid",
+      "type": "java.lang.String",
+      "sourceType": "com.hongda.TwilioConfiguration"
+    },
+    {
+      "name": "twilio.auth-token",
+      "type": "java.lang.String",
+      "sourceType": "com.hongda.TwilioConfiguration"
+    },
+    {
+      "name": "twilio.trail-number",
+      "type": "java.lang.String",
+      "sourceType": "com.hongda.TwilioConfiguration"
+    }
+  ],
+  "hints": []
+}

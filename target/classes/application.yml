@@ -1,0 +1,4 @@
+twilio:
+  account_sid: YOUR_SID
+  auth_token: YOUR_TOKEN
+  trail_number: +19253018778
